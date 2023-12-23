@@ -1,0 +1,15 @@
+Hereby we can conclude the following points by working on our dataset :
+
+1.There is positive degree correlation of some extent in temperature and dew point temperature.
+
+2.There is positive degree correlation of some extent in rainfall and visibility.
+
+3.hereby we are to prepare a model which predicts independent variables to some accuracy.
+
+4.no. of hours and temperature had a great impact on dependent variable hereby rented bike count.
+
+5.here no. of hours is something in our hand so we can adjust it in some ways or other for rented bike count.
+
+6.rented bike count has almost no correlation with wind speed.
+
+7.our models give us a good level of accuracy here.
