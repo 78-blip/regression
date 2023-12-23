@@ -1,0 +1,39 @@
+# DATA MANIPULATIONS
+HANDLING OUTLIERS:
+THE TECHNIQUE I USED FOR REMOVING OUTLIERS INVOLVES FOLLOWING STEPS:
+
+FIRST WE HAVE ALREADY MADE BOXPLOT AND HISTOGRAM IN CHARTS FROM WHERE WE GET TO KNOW ALL COMMON RANGE AND OUTLIERS
+
+NOW WE HAVE MADE NEW DATASET TO INCLUDE ALL VARIABLES BY USING FLITERS
+
+THIS TECHNIQUE IS SOMEHOW SIMPLE AND EASY TO USE.
+
+# CATEGORICAL ENCODING
+firstly ,i have created a copy of my dataset in order to encode categorical variables to numeric.
+
+tgen we have make a code where by we haveassigned the numercic values to each category of categorical data
+
+then we have replaced the values
+
+# FEATURE MANIPULATION AND SELECTION
+hereby firstly i have selected the important numerical features of my dataset to work upon :
+
+hereby i have excluded the categorical features already .
+
+also i have combined the temperature and excluded twice varaibles to avoid mulricollinearity.
+
+
+The important features according to me are:
+
+1.'Rented Bike Count', 'Hour','Humidity(%)', 'Wind speed (m/s)', 'Visibility (10m)','overall_temperature' 'Solar Radiation (MJ/m2)', 'Rainfall(mm)', 'Snowfall (cm)']
+
+as they all are important in drawing the conclusions about my prediction .they all are numerical data at all and contains important aspect
+
+# DIMENSIONALITY REDUCTION:
+i have used feature selection technique to fliter the variables i need:
+
+it facilitates the working on dataset
+
+it concentrate the focus on important things.
+
+it helps i prediaction very well
