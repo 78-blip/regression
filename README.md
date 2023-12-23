@@ -51,3 +51,5 @@ Linear regression analysis is used to predict the value of a variable based on t
 # REGULARIZED LINEAR REGRESSION:
 Regularization is a way of controlling the complexity of a linear regression model, by penalizing the coefficients that are not important or relevant for the prediction. By doing so, regularization can reduce the variance of the model, as it prevents overfitting and makes the model more robust to noise and outliers
 
+https://drive.google.com/file/d/1SMu17lDgNSFxTURWDyo2PiV2sztPClnr/view?usp=sharing
+
