@@ -44,7 +44,16 @@ TO USE LASSO ,RIDGE TO OVERCOME OVERFITTING IN MODELS.
 HERE ALL WE HAVE TO DO IS TO UNDERSTAND AND GENERATE THE DEPENDENCY OF BIKE DEMANDS PER HOUR ON THE BASIS OF VARIOUS FACTORS LIKE TEMPERATURE,HUMIDITY.
 SO WE WILL BE CO RELATING THE VARIABLES TO GENERATE OUR MODEL WHICH WILL FIT IN THE GIVEN DATASET TO GIVE GIVE AN APPROX IDEA WHILE FIXING THE OVERFITTING.
 
+# LIABRARIES USED
+NUMPY: NumPy can be used to perform a wide variety of mathematical operations on arrays. It adds powerful data structures to Python that guarantee efficient calculations with arrays and matrices and it supplies an enormous library of high-level mathematical functions that operate on these arrays and matrices.
 
+PANDAS: Pandas is a Python library used for working with data sets. It has functions for analyzing, cleaning, exploring, and manipulating data. The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis" and was created by Wes McKinney in 2008.
+
+MATPLOTLIB Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible. Create publication quality plots. Make interactive figures that can zoom, pan, update.
+
+SEABORN Seaborn is a library for making statistical graphics in Python. It builds on top of matplotlib and integrates closely with pandas data structures. Seaborn helps you explore and understand your data
+
+# ALGORITHMS USED:
 # LINEAR REGRESSION:
 Linear regression analysis is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 
